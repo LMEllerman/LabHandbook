@@ -1,4 +1,4 @@
-# group-handbook-template
+# Ledford Lab Handbook
 
 <!-- badges: start -->
 
