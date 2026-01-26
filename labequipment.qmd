@@ -1,0 +1,10 @@
+---
+title: "Lab Equipment"
+format: html
+---
+
+**Lab Equipment**
+
+::: callout-important
+## Remember to always balance the centrifuge! If you aren't sure what that means, please ask another lab member!
+:::
