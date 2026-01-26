@@ -1,4 +1,4 @@
-# Ledford Lab Handbook
+# Ledford Lab Group Handbook
 
 <!-- badges: start -->
 
