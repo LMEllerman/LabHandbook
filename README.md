@@ -7,7 +7,6 @@
 <!-- badges: end -->
 
 This is a work-in-progress template for a lab group handbook much like the one described by [Tendler et al., 2023](https://doi.org/10.7554/eLife.88853).
-Some of the content is University of Arizona specific (e.g. links in the code of conduct), but it is intended for use by anyone with any kind of lab group (or other group) to adopt!
 
 ## Features
 
